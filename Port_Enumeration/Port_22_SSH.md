@@ -1,7 +1,7 @@
 Port 22 (SSH)
 
 Nmap shows: OpenSSH 7.2p2 Ubuntu 4
-![Scan](../Images/Port22nmap.png)
+
 Confirmed with netcat.
 ![Scan](../Images/Port22netcat.png)
 
