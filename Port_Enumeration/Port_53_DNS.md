@@ -6,8 +6,11 @@ Confirmed with dig.
 ![Scan](../Images/Port53dig.png)
 
 Potential exploits for dnsmasq < 2.78:
+
 Heap Overflow
+
 Information Leak
+
 Mostly DoS related
 
 Vulnerabilities include:
