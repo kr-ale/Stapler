@@ -1,6 +1,7 @@
 Port 53 (DNS)
 ![Scan](../Images/Port53nmap.png)
 Nmap identifies: dnsmasq 2.75
+
 Confirmed with dig.
 ![Scan](../Images/Port53dig.png)
 
